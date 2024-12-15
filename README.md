@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on:<br>Enhancing my Java programming skills and building backend applications.<br>I’m looking to collaborate on:<br>Projects involving Java development, MySQL, Spring Boot , HTML and CSS.<br>I’m currently learning:<br>Advanced Java concepts, Spring Boot , and REST APIs.<br>Ask me about:<br>Java development, Core Java, OOPs and SQL.<br>Fun fact:<br>I enjoy solving coding challenges and have built a bank management system and a chatting app!<br><br>
+I’m currently working on enhancing my Java programming skills and building backend applications.<br>I’m looking to collaborate on Projects involving Java development, MySQL, Spring Boot , HTML and CSS.<br>I’m currently learning Advanced Java concepts, Spring Boot , and REST APIs.<br>Ask me about Java development, Core Java, OOPs and SQL.<br>Fun fact I enjoy solving coding challenges and have built a bank management system and a chatting app!<br><br>
 
 
 ## 🌐 Socials:
